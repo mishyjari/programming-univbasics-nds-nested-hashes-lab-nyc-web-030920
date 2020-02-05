@@ -25,9 +25,12 @@ def assembled_aoh
       },
       KATE_G: {
         name: 'Kate Gompert',
-        
+        occupation: 'None'
+      },
+      BRUCE_G: {
+        name: 'Bruce Green',
+        occupation: 'Fan of Mildred'
       }
-    
     }
   ]
 end
