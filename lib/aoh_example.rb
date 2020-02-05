@@ -11,26 +11,36 @@ def assembled_aoh
   # Array. Ruby constants are denoted by ALL_CAPS
   [
     {
-      DON_G: {
-        name: 'Don Gatley',
-        occupation: 'Live-in Staff',
+      {
+        DON_G: {
+          name: 'Don Gatley',
+          occupation: 'Live-in Staff',
+        }
       },
-      JOELLE_VD: {
-        name: 'Joelle van Dyne',
-        occupation: 'Radio Personality'
+      {
+        JOELLE_VD: {
+          name: 'Joelle van Dyne',
+          occupation: 'Radio Personality'
+        }
       },
-      PAT_M: {
-        name: 'Pat Monteseian',
-        occupation: 'Staff'
+      {
+        PAT_M: {
+          name: 'Pat Monteseian',
+          occupation: 'Staff'
+        }
       },
-      KATE_G: {
-        name: 'Kate Gompert',
-        occupation: 'None'
+      {
+          KATE_G: {
+          name: 'Kate Gompert',
+          occupation: 'None'
+        },
       },
-      BRUCE_G: {
-        name: 'Bruce Green',
-        occupation: 'Fan of Mildred'
-      }
+      {
+        BRUCE_G: {
+          name: 'Bruce Green',
+          occupation: 'Fan of Mildred'
+        }
+      }  
     }
   ]
 end
