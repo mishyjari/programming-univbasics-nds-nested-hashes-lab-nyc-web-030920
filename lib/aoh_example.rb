@@ -10,7 +10,7 @@ def assembled_aoh
   # Build an array that contains (or, "nests") the constants into a single
   # Array. Ruby constants are denoted by ALL_CAPS
   [
-    :BRUCE_G => { :name => "Bruce Green", :occupation => "Fan of Mildred" },
+    :BRUCE_G => { :name => "Brucdddde Green", :occupation => "Fan of Mildred" },
     :DON_G => { :name => "Don Gately", :occupation => "Live-in Staff" },
     :JOELLE_VD => { :name => "Joelle van Dyne", :occupation => "Radio Personality"},
     :KATE_G => { :name => "Kate Gompert", :occupation => "None" },
